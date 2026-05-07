@@ -5,3 +5,4 @@ Sets up & configs a VM as a GW, DNS, DHCP, and DC for the the domain backbone.lo
 
 The DC is used to run the domain backbone.local that in turn contains the server running Hyper-V. Putting it on a domain makes remote management seamless and easy. One only has to plug a USB DVD drive or thumb drive into the server, install the OS, and then use sconfig.exe to set the IP, GW, DNS, and then join the domain. Once this is done the server can be remotely managed going foward.
 
+<img width="1223" height="689" alt="Mishky&#39;s Range" src="https://github.com/user-attachments/assets/378d8305-680d-481f-9c12-1823dba6d79a" />
